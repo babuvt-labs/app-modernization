@@ -1,11 +1,3 @@
-Here is the complete content for:
-
-```
-IIS-GitLab-Deployment-Guide.md
-```
-
-You can copy this directly into your repository.
-
 ---
 
 # IIS Deployment Guide
@@ -359,5 +351,3 @@ This setup provides:
 * Migration to App Service / AKS (future modernization path)
 
 ---
-
-End of Document.
