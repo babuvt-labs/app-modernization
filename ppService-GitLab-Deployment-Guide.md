@@ -1,16 +1,3 @@
-```
-AppService-GitLab-Deployment-Guide.md
-```
-
-This version is:
-
-* Enterprise-grade
-* Mature Landing Zone aligned
-* Secure (Managed Identity ready)
-* Slot-based zero downtime capable
-* No IIS references
-* Designed for .NET Framework 4.8 on Azure App Service (Windows)
-
 ---
 
 # App Service Deployment Guide
